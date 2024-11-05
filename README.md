@@ -1,7 +1,6 @@
 # Python Learning ChatBot
 
-Welcome to the Python Learning ChatBot! This interactive chatbot helps users learn Python through quizzes and answers to their questions. 
-
+Welcome to the Python Learning ChatBot! This interactive chatbot helps users learn Python. Users can ask basic question about Python and do quizzes.
 ## Features
 - Interactive quizzes on various Python topics.
 - User-friendly command-line interface and GUI.
