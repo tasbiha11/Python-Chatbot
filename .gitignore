@@ -1,0 +1,25 @@
+# Python Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# IDE or Editor Settings
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Configuration Files
+*.env
+
+# Log Files
+*.log
+
+# Other Temporary Files
+*.bak
+*.tmp
