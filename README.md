@@ -16,7 +16,6 @@ Before running the application, ensure you have the following installed:
 ## Installation Steps
 
 ### 1. Clone the Repository
-Open your terminal (command prompt) and run the following command to clone the repository:
 
 ### 2. Navigate to the Project Directory
 
